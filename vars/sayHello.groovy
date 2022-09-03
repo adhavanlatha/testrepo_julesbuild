@@ -5,3 +5,7 @@ def call(String name = 'human') {
   echo "Hi"
   echo "Hi Adhavan"
 }
+def call1(String name = 'human') {
+  
+  echo "I love India"
+}
